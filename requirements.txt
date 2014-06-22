@@ -1,0 +1,8 @@
+Flask==0.10.1
+Jinja2==2.7
+Werkzeug==0.9.1
+bdist-mpkg==0.4.4
+gunicorn==0.17.4
+itsdangerous==0.21
+virtualenv==1.9.1
+wsgiref==0.1.2
